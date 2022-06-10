@@ -3,9 +3,7 @@
 ## Team
 Students of FIT-211 group:
 - Zavodov Vyacheslav
-- Puchko Vladislav
-- Rezvanova Darya
-- Selkina Lyubov
+- Alberty Pavel
 
 ## Commands
 
