@@ -1,0 +1,3 @@
+
+class IocException(Exception):
+    ...
