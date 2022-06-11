@@ -1,0 +1,7 @@
+{
+  "player_default_health": 5,
+  "player_default_money_count": 50,
+  "player_max_unit_number": 7,
+  "unit_default_health": 10,
+  "unit_default_base_attack": 3
+}
